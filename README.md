@@ -1,0 +1,1 @@
+para fazer o codigo funcionar primeiro arrume os caminhos das pastas e dos arquivos. Depois, é só fazer um run all no kernel que funciona corretamente
